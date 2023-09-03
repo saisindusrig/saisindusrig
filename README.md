@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sai Sindu Sri
 - 👀 I’m interested in Coding , Salesforce
 - 🌱 I’m currently learning Salesforce Administration
-- 📫 Twitter: @SaiSinduSri 
+- 📫 Twitter: @SaiSinduSri , LinkedIn: @saisindusrig
 
 <!---
 saisindusrig/saisindusrig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
