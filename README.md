@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Sindu Sri
-- 👀 I’m interested in Coding , Salesforce
-- 🌱 I’m currently learning Salesforce Administration
+- 👀 I’m interested in Coding, Salesforce and Data Analytics
+- 🌱 Undergraduate
 - 📫 Twitter: @SaiSinduSri , LinkedIn: @saisindusrig
 
 <!---
