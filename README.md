@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sai Sindu Sri
-- 👀 I’m interested in Coding, Salesforce and Data Analytics
+- 👀 I’m interested in Coding, Salesforce Development
 - 🌱 Undergraduate
 - 📫 Connect with me at LinkedIn: @saisindusrig
 
