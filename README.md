@@ -1,6 +1,7 @@
-<h4>- 👋 Hi, I’m Sai Sindu Sri
-- 👀 I’m interested in Coding, Salesforce Development
-- 🌱 Undergraduate
+<h4>
+- 👋 Hi, I’m Sai Sindu Sri <br>
+- 👀 I’m interested in Coding, Salesforce Development <br>
+- 🌱 Undergraduate<br>
 - 📫 Connect with me at LinkedIn: @saisindusrig</h4>
 
 <!---
