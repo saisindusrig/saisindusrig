@@ -20,6 +20,8 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
 
 <p>
   <a href="https://www.linkedin.com/in/saisindusrig" target="_blank">LinkedIn</a>
+  <a href="https://leetcode.com/SaiSinduSri" target="_blank">LeetCode</a><br>
+  <a href="https://www.codechef.com/users/saisindusri" target="_blank">CodeChef</a>
 </p>
 
 Feel free to reach out if you'd like to connect or discuss opportunities!
