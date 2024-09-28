@@ -1,4 +1,4 @@
-# Hi there, I'm <strong>Sai Sindu Sri</strong>! 👋
+# Hi there,                                                             I'm <strong>Sindu</strong>! 👋
 
 I'm a fresher with a keen interest in coding and Salesforce development. Passionate about exploring new technologies and honing my skills in both programming and Salesforce.
 
