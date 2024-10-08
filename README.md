@@ -14,7 +14,7 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
 
 ## Projects
 
-<p>Currently, I'm working on gaining hands-on experience and will update this section with my projects soon.</p>
+<p>Salesforce Data Visualization.</p>
 
 ## Connect with Me
 
