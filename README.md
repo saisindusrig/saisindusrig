@@ -6,7 +6,7 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
 
 <ul>
   <li><strong>Programming Languages:</strong> C, Python, Java, Apex</li>
-  <li><strong>Web Development:</strong> HTML, CSS, JavaScript(Basic)</li>
+  <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
   <li><strong>Databases:</strong> MySQL, MS SQL Server</li>
   <li><strong>Data Visualization:</strong> Tableau</li>
   <li><strong>Salesforce:</strong> Salesforce Administration</li>
@@ -14,6 +14,7 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
 
 ## Projects
 
+<p>Multi Algorithm Task Scheduler</p>
 <p>Salesforce Data Visualization</p>
 
 ## Connect with Me
