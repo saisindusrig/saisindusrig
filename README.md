@@ -15,7 +15,7 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
 ## Projects
 
 <p>Multi Algorithm Task Scheduler</p>
-<p>Salesforce Data Visualization</p>
+<p>Trainee(Salesforce) Data Visualization</p>
 
 ## Connect with Me
 
