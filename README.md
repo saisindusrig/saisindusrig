@@ -5,7 +5,7 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
 ## Skills and Technologies
 
 <ul>
-  <li><strong>Programming Languages:</strong> C, Python, Java, Apex</li>
+  <li><strong>Programming Languages:</strong> C, Python, Java, Apex(Basic)</li>
   <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
   <li><strong>Databases:</strong> MySQL, MS SQL Server</li>
   <li><strong>Data Visualization:</strong> Tableau</li>
