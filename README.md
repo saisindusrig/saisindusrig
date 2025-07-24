@@ -6,7 +6,6 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
 
 <ul>
   <li><strong>Programming Languages:</strong> C, Python, Java, Apex(Basic)</li>
-  <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
   <li><strong>Databases:</strong> MySQL, MS SQL Server</li>
   <li><strong>Data Visualization:</strong> Tableau</li>
   <li><strong>Salesforce:</strong> Salesforce Administration</li>
@@ -25,7 +24,6 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
   <a href="https://www.codechef.com/users/saisindusri" target="_blank">CodeChef</a>
 </p>
 
-Feel free to reach out if you'd like to connect or discuss opportunities!
 
 <!---
 saisindusrig/saisindusrig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
