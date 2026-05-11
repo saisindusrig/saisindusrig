@@ -5,9 +5,9 @@ I'm a fresher with a keen interest in coding and Salesforce development. Passion
 ## Skills and Technologies
 
 <ul>
-  <li><strong>Web Development:</strong>ReactJS, AngularJS, MongoDB, Node.js, Express.js, Bootstrap, Tailwind CSS</li>
-  <li><strong>Programming Languages:</strong> C, Python, Java, Apex(Basic)</li>
-  <li><strong>Databases:</strong> MySQL, MS SQL Server</li>
+  <li><strong>Web Development:</strong>MERN/MEAN stack</li>
+  <li><strong>Programming Languages:</strong> Javascript, C, Python, Java, Typescript</li>
+  <li><strong>Databases:</strong> MySQL, MS SQL Server, MongoDB</li>
   <li><strong>Data Visualization:</strong> Tableau</li>
   <li><strong>Salesforce:</strong> Salesforce Administration</li>
 </ul>
